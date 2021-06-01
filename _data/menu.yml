@@ -1,0 +1,10 @@
+entries:
+  - title: links
+    entries:
+      - title: latest playlist
+        url: latest
+      - title: instagram
+        url: https://www.instagram.com/_dicamusicaldosamuel/
+
+  - title: past playlists
+    post_list: true
